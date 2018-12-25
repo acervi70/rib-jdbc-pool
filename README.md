@@ -1,1 +1,2 @@
-rib-jdbc-pool
+# rib-core-jdbc
+Core JDBC classes.
